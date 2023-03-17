@@ -15,19 +15,19 @@
   "about_me": {
     "personal": {
       "title": "And less formally...",
-      "description1": "I love to create both professionally and as a hobby. I enjoy experimenting with pencils, charcoal, paints and markers, and the bigger is the paper, the more fun! I also like to play ukulele in my spare time and sing along to it.",
-      "description2": "Minimalism is close to me not only in design, because in general I try to live according to the statement less is more. I also like to do some yoga from time to time, and I disturb my inner peace with rock concerts.",
+      "description1": "I love to create both professionally and as a hobby. I enjoy playing with pencils, charcoal, paints and markers. The bigger the paper, the better the fun! I also enjoy playing the ukulele.",
+      "description2": "Minimalism is close to me not only in design, but also in my day-to-day life I try to live according to the statement that less is more.I also like to calm down during yoga from time to time, and I disturb my inner peace with rock concerts.",
       "start": "Let's work together"
     }
   },
   "offer": {
     "title": {
-      "part1": "So,",
-      "part2": "Are we starting",
-      "part3": "To create magic?"
+      "part1": "Ready to",
+      "part2": "Create magic",
+      "part3": "With me?"
     },
     "description1": "Check my offer, where you will find all information about working with me.",
-    "description2": "And if you want to collaborate, fill out the form, basing on it we will be able to discuss all the details!",
+    "description2": "If you want to collaborate, please fill out the form, based on which we will be able to discuss the details!",
     "my_offer": "Offer",
     "form": "Form",
     "link_offer": "https://drive.google.com/file/d/1Yjvgo97hWJ0vJS2T1mawzWkwiSbBf8t-/view?fbclid=IwAR0i38FWussmPrYHvfgv_SNUT0jyV4vz01JRqCoMcUagxcZi2AMCb99sFAM",
@@ -38,6 +38,6 @@
     "insta2": "On Instagram:",
     "navbar1": "Collaboration",
     "navbar2": "About Me",
-    "navbar3": "EN"
+    "navbar3": "EN/PL"
   }
 }

@@ -15,8 +15,8 @@
   "about_me": {
     "personal": {
       "title": "A bardziej personalnie...",
-      "description1": "Jestem freelancerem. Specjalizuję się w tworzeniu identyfikacji wizualnej, a więc w tworzeniu pozytywnych emocji i skojarzeń związanych z marką, poprzez wyjątkowe projekty graficzne. Pomagam w realizacji marzeń i kreowaniu wyjątkowych marek.",
-      "description2": "Jestem absolwentką dwóch kierunków; zarządzania i digital design. Takie połączenie pozwoliło mi na połączenie umiejętności z zakresu sztuki i projektowania wraz z wiedzą na temat rozwoju firmy i marketingu. Dzięki takiemu połączeniu lepiej potrafię dopasować projekt do potrzeb działalności, biorąc pod uwagę nie tylko wizulaną stronę, ale również funkcjonalną, która pozwoli przenieść Twoją markę na wyższy poziom.",
+      "description1": "Kocham tworzyć zarówno zawodowo i hobbistycznie. Wielką przyjemność sprawia mi zabawa z ołówkami, węglem, farbami czy markerami, a im większy papier tym większa frajda! Szczególnie odpręża mnie też granie na ukulele.",
+      "description2": "Minimalizm jest mi bliski nie tylko w projektowaniu, bo ogólnie staram się żyć zgodnie z zasadą \"mniej znaczy więcej\". Lubię też od czasu do czasu wyciszyć się podczas jogi, a wewnętrzny spokój zaburzam koncertami rockowymi.",
       "start": "Zacznijmy współpracę"
     }
   },
@@ -27,7 +27,7 @@
       "part3": "Magię?"
     },
     "description1": "Sprawdź moją ofertę, w której znajdziesz wszystkie informacje o współpracy.",
-    "description2": "A jeśli chcesz ze mną współpracować, wypełnij formularz, na podstawie którego będziemy mogli ustalić wszystkie szczegóły!",
+    "description2": "Jeśli chcesz ze mną współpracować to zapraszam Cię do wypełnienia formularza, na podstawie którego będziemy mogli ustalić wszystkie szczegóły.",
     "my_offer": "Oferta",
     "form": "Formularz",
     "link_offer": "https://drive.google.com/file/d/1Yjvgo97hWJ0vJS2T1mawzWkwiSbBf8t-/view?fbclid=IwAR0i38FWussmPrYHvfgv_SNUT0jyV4vz01JRqCoMcUagxcZi2AMCb99sFAM",
@@ -38,6 +38,6 @@
     "insta2": "na Instagramie:",
     "navbar1": "Współpraca",
     "navbar2": "O mnie",
-    "navbar3": "PL"
+    "navbar3": "PL/EN"
   }
 }
